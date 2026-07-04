@@ -1,4 +1,4 @@
-# HR---Analytics---Dashboard---Power-BI-
+# HR-Analytics-Dashboard-Power BI
 Interactive Power BI dashboard analyzing employee attrition, workforce demographics, salary trends, and HR KPIs using Power Query and DAX.
 
 # HR Analytics Dashboard | Power BI
@@ -76,7 +76,9 @@ This project is an interactive HR Analytics Dashboard built in Microsoft Power B
 
 ## 📷 Dashboard Preview
 
-()
+<img width="1167" height="656" alt="Dashboard BI" src="https://github.com/user-attachments/assets/2912c6d1-57bb-4d61-b0a4-d27d91d1ca0d" />
+
+
 
 ---
 
